@@ -1,6 +1,18 @@
-# UIKIT
+# UIKIT ⚡
 
-Interactive details for the modern web. UIKIT is a copy-and-paste collection of React components with live previews, motion, and source code you can make your own.
+**Stop building the same buttons, cards and sliders from scratch.**
+
+UIKIT is a collection of premium, interactive React components designed to feel *alive* — magnetic buttons, 3D tilt cards, spring sliders, physics drags, glowing toasts and more.
+
+### 👇 How it works
+**1.** Browse & play with every component live
+**2.** Click *Code* → *Copy*
+**3.** Paste it into your project — it just works
+
+Built with **React + Tailwind CSS + Framer Motion + TypeScript**
+No boilerplate. No dependencies you don't need. Just beautiful, copy-paste-ready UI.
+
+🔥 **See it. Copy it. Make it yours.**
 
 ![UIKIT hero artwork](public/images/uikit-hero.jpg)
 
