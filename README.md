@@ -6,7 +6,9 @@ UIKIT is a collection of premium, interactive React components designed to feel 
 
 ### 👇 How it works
 **1.** Browse & play with every component live
+
 **2.** Click *Code* → *Copy*
+
 **3.** Paste it into your project — it just works
 
 Built with **React + Tailwind CSS + Framer Motion + TypeScript**
