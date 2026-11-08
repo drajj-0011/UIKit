@@ -2,16 +2,6 @@
 
 UIKIT is a frontend-only gallery of interactive, copy-paste-ready React components. Visitors can browse examples, try live previews, view their source, and copy that source into their own projects. There is no backend, database, or account system.
 
-## Technology
-
-- **React + TypeScript:** application pages and interactive examples.
-- **Vite:** development server and production build; `?raw` imports load example source as text.
-- **Tailwind CSS:** styling for the copyable examples, alongside the site's `src/index.css`.
-- **Wouter:** client-side navigation.
-- **Framer Motion:** animations and gestures.
-- **Lucide React:** icons.
-- **Playwright:** browser-level tests.
-
 ## Project Structure
 
 | Path | Responsibility |
